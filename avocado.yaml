@@ -7,7 +7,7 @@ initramfs:
 
 extensions:
   avocado-bsp-jetson-orin-nano-devkit:
-    version: 2024.1.0
+    version: 0.1.0
     release: r0
     summary: Board support for the Nvidia Jetson Orin Nano devkit
     description: Board support for the Nvidia Jetson Orin Nano devkit
